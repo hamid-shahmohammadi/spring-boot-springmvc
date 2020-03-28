@@ -1,4 +1,4 @@
-package com.iranlaravel.springmvc.springmvc.model;
+package com.iranlaravel.springmvc.model;
 
 import org.hibernate.annotations.GenericGenerator;
 

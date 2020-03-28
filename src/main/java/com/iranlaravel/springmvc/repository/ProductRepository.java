@@ -1,6 +1,6 @@
-package com.iranlaravel.springmvc.springmvc.repository;
+package com.iranlaravel.springmvc.repository;
 
-import com.iranlaravel.springmvc.springmvc.model.Product;
+import com.iranlaravel.springmvc.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package com.iranlaravel.springmvc.springmvc;
+package com.iranlaravel.springmvc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
